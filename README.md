@@ -1,2 +1,1 @@
-﻿Sarampo_sazonalidade_litoral_sc
-Estudo de sazonalidaes no estado de Santa Catarian relacionado ao Sarampo.
+﻿Estudo de sazonalidaes no estado de Santa Catarina relacionado ao Sarampo.
